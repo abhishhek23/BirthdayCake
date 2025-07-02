@@ -217,17 +217,17 @@ body {
     position: absolute;
     width: 100%;
     top: 70vh;
-    color: gold;
+    color: white;
     font-weight: bold;
-    text-shadow:
+    /* text-shadow:
         0 0 5px gold,
         0 0 10px gold,
         0 0 15px orange,
         0 0 20px orange,
         0 0 25px goldenrod,
         0 0 30px goldenrod,
-        0 0 35px #ffcc00;
-        animation: sparkle 1.5s infinite alternate ease-in-out;
+        0 0 35px #ffcc00; */
+        /* animation: sparkle 1.5s infinite alternate ease-in-out; */
 
 }
 @keyframes sparkle {
