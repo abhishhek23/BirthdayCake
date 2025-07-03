@@ -2,7 +2,7 @@
   // Show the button after 6 seconds
   setTimeout(() => {
     document.getElementById("continueBtn").style.display = "block";
-  }, 6000); // 6000ms = 6 seconds
+  }, 6000); // 6000ms = 4 seconds
 
   function goNext() {
     window.location.href = "birthday_note.html"; // Or your next layer page
